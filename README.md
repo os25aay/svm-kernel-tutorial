@@ -16,6 +16,6 @@ Two datasets were used:
    https://www.kaggle.com/datasets/uciml/iris
 
 ## Repository Contents
-- `notebook.ipynb` → Full code used to generate all results
-- `tutorial.pdf` → Final written tutorial
+- `Machine learning assignment.ipynb` → Full code used to generate all results
+- `svm tutorial.pdf` → Final written tutorial
 
